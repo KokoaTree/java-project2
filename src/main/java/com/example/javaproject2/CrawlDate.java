@@ -1,6 +1,6 @@
 package com.example.javaproject2;
 
-public class CrawlDate {
+/*public class CrawlDate {
     public class CrawlDate {
         private LocalDateTime lastCrawlDateTime;
         // alt + insert
@@ -8,4 +8,4 @@ public class CrawlDate {
             this.lastCrawlDateTime = lastCrawlDateTime;
         }
     }
-}
+}*/
